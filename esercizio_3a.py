@@ -35,6 +35,6 @@ elif (lancio4 == 0):
     if (lancio5 == 0):
         media = somma / 3
 else:
-    media = somma / 4
+    media = somma / 5
 
 print(f"La media dei lanci è {media}")
